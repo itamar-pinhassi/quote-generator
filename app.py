@@ -9,7 +9,8 @@ quotes = [
     "Innovation distinguishes between a leader and a follower. - Steve Jobs",
     "Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll",
     "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
-    "It is never too late to be what you might have been. - George Eliot"
+    "It is never too late to be what you might have been. - George Eliot",
+    "we came for the values, we stayed for the money and the bitches. - Itamar Pinhassi"
 ]
 
 @app.route('/')
